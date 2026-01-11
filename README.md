@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Merhaba, ben Sıla
 
-<!--
-**sgulasti/sgulasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Elektrik-Elektronik alanında eğitim alan bir öğrenciyim.  
+💻 C programlama, gömülü sistemler ve temel elektronik ile ilgileniyorum.  
+🤖 Arduino ve mikrodenetleyici tabanlı sistemler üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+### 🔧 Yetenekler
+- C Programlama
+- Arduino
+- Gömülü Sistemler
+- Temel Elektronik
+- Problem Çözme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🎯 Şu Anki Hedeflerim
+- C programlama bilgisini derinleştirmek  
+- Pratik elektronik ve Arduino projeleri geliştirmek  
+- Donanım ve yazılım bilgisini birleştirmek  
+
+📫 LinkedIn:www.linkedin.com/in/sıla-gülaştı-713b8824a
 -->
